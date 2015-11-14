@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: AviReport
+        psr4_prefix: AviReport
+        src_path: app
